@@ -1,7 +1,7 @@
 # KeralaFlood2018
 Analysis of Kerala (India) Flood in 2018
 
-![Annual cycle](img/cycle.png)
+<img src="img/cycle.png" width="600">
 
 ## Analysis
 
