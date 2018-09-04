@@ -11,4 +11,4 @@ for pdf,png in zip(pdfs, pngs):
         pdf2png(pdffile=pdf, dpi=200, pngfile=png)
         print('Convert:', pdf, '->', png)
     else:
-        print('Exists:', png)
+        print('\tExists:', png)
